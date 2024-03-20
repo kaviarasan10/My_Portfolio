@@ -1,0 +1,163 @@
+body {
+    display: flex;
+    background-image: url(images/bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: 215vh 100vh;
+    }
+
+.main {
+    color: #ffffff;
+}
+
+.flex-column {
+    margin-top: 220px;
+}
+
+a {
+    margin-bottom: 20px;
+}
+
+.img {
+    height: 60px;
+    width: 60px;
+    margin-top: 25px;
+    margin-left: -83px;
+}
+
+.hd1 {
+    margin-top: -60px;
+    margin-left: -10px;
+    color: rgba(255, 255, 255, 0.842);
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.hd2{
+    color: goldenrod;
+    font-family: cursive;
+    font-size: 20px;
+    margin-left: -10px;
+    margin-top: -5px;
+}
+
+.abt {
+    margin-top: 250px;
+    color: #ffffff;
+    font-family: cursive;
+}
+
+.int,.pr {
+    color: goldenrod;
+}
+
+.lin {
+    color:white ;
+}
+
+a:hover {
+        color: #ffffff;
+}
+
+a:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+.active {
+    color: goldenrod;
+    font-family: cursive;
+}
+
+.prj {
+    color: goldenrod;
+    font-family: cursive;
+}
+
+.nav-link {
+    color: goldenrod;
+    font-family: cursive;
+}
+
+.ln {
+    margin-left: -300px;
+    margin-top: 420px;
+}
+
+.ln,.twt,.git,.fb {
+    color: #ffffff;
+}
+
+.twt {
+    margin-left: -128px;
+    margin-top: 420px;
+}
+
+.twt:hover {
+    color: goldenrod;
+}
+
+.twt:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+.ln:hover {
+    color: goldenrod;
+}
+
+.ln:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+.git {
+    margin-top: 420px;
+    margin-left: -42px;
+}
+
+.git:hover {
+    color: goldenrod;
+}
+
+.git:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+.fb{
+    margin-top: 420px;
+    margin-left: 2px;
+}
+
+.fb:hover {
+    color: goldenrod;
+}
+
+.fb:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+.gm {
+    margin-top: 420px;
+    margin-left: 10px;
+    color: #ffffff;
+}
+
+.gm:hover {
+    color: goldenrod;
+}
+
+.gm:active {
+    color: #ffffff;
+    transform: translateY(2px);
+}
+
+
+
+
+
+
+
+
+

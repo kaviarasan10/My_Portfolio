@@ -1,0 +1,336 @@
+body {
+    display: flex;
+    background-image:url(images/bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: 215vh 100vh;
+    width: 211vh;
+    }
+
+.flex-column {
+        margin-top: 220px;
+    }
+
+ a {
+        margin-bottom: 20px;
+    }
+
+    a:hover {
+        color: #ffffff;
+}
+
+a:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+.active {
+    color: goldenrod;
+    font-family: cursive;
+}
+
+.prj {
+    color: goldenrod;
+    font-family: cursive;
+}
+
+.nav-link {
+    color: goldenrod;
+    font-family: cursive;
+}
+
+.hd {
+    margin-top: 5vh;
+    margin-left: 10vh;
+    color: goldenrod;
+    font-family: cursive;
+}
+
+.hd1 {
+    font-size: 30px;
+    color: goldenrod;
+}
+
+.main {
+    height: 70vh;
+    width: 80vh;
+    border: none;
+    margin-top: 20vh;
+    margin-left: -25vh;
+}
+
+.phn {
+    margin-left: 0px;
+    font-size: 30px;
+    margin-top:  18vh;
+    color: #ffffff;
+}
+
+.phn:hover {
+    color: goldenrod;
+}
+
+.phn:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+.phn1 {
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: -5vh;
+    margin-left: 7vh;
+}
+
+.phn2 {
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    font-size: 18px;
+    color: #ffffff;
+    margin-left: 19vh;
+    margin-top: -6.5vh;
+}
+
+.phn1:hover {
+    color: goldenrod;
+}
+
+.phn1:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+  .phn2:hover {
+    color: goldenrod;
+}
+
+.phn2:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+  .gm {
+    margin-top: 5vh;
+    width: 10vh;
+    height: 10vh;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    margin-left: -vh;
+    color: #ffffff;
+}
+
+.gm:hover {
+    color: goldenrod;
+}
+
+.gm:active {
+    color: #ffffff;
+    transform: translateY(2px);
+}
+
+.gm1 {
+    font-size: 18px;
+    margin-left: 7vh;
+    margin-top: -5.5vh;
+}
+
+.gm1:hover {
+    color: goldenrod;
+}
+
+.gm1:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+a {
+    text-decoration: none;
+}
+  .gm2 {
+    margin-top: -6.7vh;
+    margin-left: 17vh;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 18px;
+  }
+  .gm2:hover {
+    color: goldenrod;
+}
+
+.gm2:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+  .add {
+    margin-top: 1vh;
+    width: 10vh;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    margin-left: vh;
+    color: #ffffff;
+}
+
+.add:hover {
+    color: goldenrod;
+}
+
+.add:active {
+    color: #ffffff;
+    transform: translateY(2px);
+}
+
+.add1 {
+    font-size: 18px;
+    margin-left: 7vh;
+    margin-top: -6vh;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+}
+.add1:hover {
+    color: goldenrod;
+}
+
+.add1:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+  .add2 {
+    margin-top: -6.5vh;
+    margin-left: 23vh;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 18px;
+  }
+
+.ln {
+    margin-left: 40vh;
+    margin-top: -33vh;
+}
+.ln1 {
+    margin-left: 48vh;
+    color: #ffffff;
+    margin-top: -6vh;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+
+.ln:hover {
+    color: goldenrod;
+}
+
+.ln:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+  .ln1:hover {
+    color: goldenrod;
+}
+
+.ln1:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+.ln,.twt,.git,.fb {
+    color: #ffffff;
+}
+
+.twt {
+    margin-left: 40vh;
+    margin-top: 7vh;
+}
+
+.twt:hover {
+    color: goldenrod;
+}
+
+.twt:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+  .twt1 {
+    margin-left: 48vh;
+    color: #ffffff;
+    margin-top: -6vh;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+
+.twt1:hover {
+    color: goldenrod;
+}
+
+.twt1:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+.git {
+    margin-top: 7vh;
+    margin-left: 40vh;
+}
+
+.git:hover {
+    color: goldenrod;
+}
+
+.git:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+  .git1 {
+    margin-left: 48vh;
+    color: #ffffff;
+    margin-top: -6vh;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+
+.git1:hover {
+    color: goldenrod;
+}
+
+.git1:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+.fb{
+    margin-top: 7vh;
+    margin-left: 40vh;
+}
+
+.fb:hover {
+    color: goldenrod;
+}
+
+.fb:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
+
+  .fb1 {
+    margin-left: 48vh;
+    color: #ffffff;
+    margin-top: -6vh;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+
+.fb1:hover {
+    color: goldenrod;
+}
+
+.fb1:active {
+    color: rgb(247, 247, 247);
+    transform: translateY(2px);
+  }
